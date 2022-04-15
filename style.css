@@ -11,16 +11,15 @@
 
 .contato{
     position: relative;
-    height: 100%;
-    width: 100%;
+    height: 100vh;
     padding: 50px 100px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: url(img.jpg);
+    background-image: url(pexels-bri-schneiter-346529.jpg);
     background-size:cover;
-    background-position: center center;
+    background-position: center top;
 }
 
 .contato .conteudo{
