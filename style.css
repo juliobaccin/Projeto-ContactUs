@@ -11,7 +11,7 @@
 
 .contato{
     position: relative;
-    height: 100vh;
+    height: 160vh;;
     padding: 50px 100px;
     display: flex;
     justify-content: center;
@@ -19,7 +19,7 @@
     flex-direction: column;
     background-image: url(pexels-bri-schneiter-346529.jpg);
     background-size:cover;
-    background-position: center top;
+    background-position: center;
 }
 
 .contato .conteudo{
