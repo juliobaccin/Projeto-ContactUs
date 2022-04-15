@@ -11,13 +11,14 @@
 
 .contato{
     position: relative;
-    min-height: 100vh;
+    height: 100%;
+    width: 100%;
     padding: 50px 100px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: url(pexels-eberhard-grossgasteiger-1612351.jpg);
+    background-image: url(img.jpg);
     background-size:cover;
     background-position: center center;
 }
