@@ -1,5 +1,5 @@
 <h1 align="center">
- Projeto - formulário de contato em HTML e CSS
+ Projeto - formulário de contato
 </h1>
 
 <p align="center">
