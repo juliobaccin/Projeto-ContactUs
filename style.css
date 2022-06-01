@@ -92,6 +92,10 @@
     background: #fff;
 }
 
+.formadecontato form{
+    position: relative;
+}
+
 .formadecontato h2 {
     font-size: 30px;
     color: #333;
@@ -145,12 +149,9 @@ textarea {
     color: #fff;
     border: none;
     cursor: pointer;
-    padding: 9px;
     font-size: 18px;
-    position: absolute;
-    top: -34px;
-    left: 41px;
     transform: scale(0.8);
+    text-align: center;
 }
 
 @media (max-width: 500px) {
