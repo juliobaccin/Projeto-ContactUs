@@ -1,5 +1,5 @@
 <h1 align="center">
- Projeto - formulário de contato
+ Projeto - Contact Us
 </h1>
 
 <p align="center">
